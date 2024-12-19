@@ -12,4 +12,4 @@ echo "my name is $jina"
 
 #vim main.sh
 
-# projectAWS
+# projectAWS main1
